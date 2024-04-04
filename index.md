@@ -23,4 +23,4 @@ Briefly introduce yourself here. What do you do? What are your interests?
 
 ## Contact Me
 
-I love to connect with like-minded individuals. Feel free to [reach out to me](mailto:your-email@example.com) or follow me on [GitHub](https://github.com/yourusername) and [Twitter](https://twitter.com/yourusername).
+I love to connect with like-minded individuals. Feel free to [reach out to me](mailto:scottjones@netgurusolutions.co.uk) or follow me on [GitHub](https://github.com/itspinky95).
