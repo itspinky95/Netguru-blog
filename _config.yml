@@ -1,0 +1,39 @@
+# Theme Configuration
+theme: minima
+
+# Site Settings
+title: itspinky95-Docs
+author: itspinky95
+email: scottjones@netgurusolutions.co.uk
+description: >- # This is a YAML multiline string that helps you to write a longer description
+  This is my personal blog where I share insights about coding, technology, and anything else I'm passionate about.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://docs.netgurusolutions.co.uk" # the base hostname & protocol for your site
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima Theme Settings
+minima:
+  social_links:
+    twitter: your-twitter-handle
+    github: your-github-username
+    linkedin: your-linkedin-username
+  google_analytics: UA-XXXXX-Y
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby
+
+# Optional features
+show_excerpts: true # Show post excerpts on the homepage
